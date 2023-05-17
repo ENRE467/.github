@@ -2,6 +2,7 @@
 
 ## Welcome to ENRE467
 
+Website for TI course : https://university.ti.com/en/faculty/ti-robotics-system-learning-kit/ti-robotics-system-learning-kit/curriculum-design-launch
 <!--
 
 **Here are some ideas to get you started:**
