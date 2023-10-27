@@ -18,11 +18,4 @@ To get started, you need to download and install some software on your computer.
 Website for the TI robot : https://university.ti.com/en/faculty/ti-robotics-system-learning-kit/ti-robotics-system-learning-kit/curriculum-design-launch
 <!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We will use Github for most of the work on the robot arm (the Universal Robotics UR3). Thus, the frist step in working on the UR3 is to join Github.
