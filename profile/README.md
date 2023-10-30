@@ -17,4 +17,4 @@ To get started, you need to download and install some software on your computer.
 
 Website for the TI robot : https://university.ti.com/en/faculty/ti-robotics-system-learning-kit/ti-robotics-system-learning-kit/curriculum-design-launch
 
-We will use Github for most of the work on the robot arm (the Universal Robotics UR3). Thus, the frist step in working on the UR3 is to join Github.
+We will use Github for most of the work on the robot arm (the Universal Robotics UR3). Thus, the frist step in working on the UR3 is to join Github. For instructions on setting up your Github account, please go to https://docs.github.com/en
