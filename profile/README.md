@@ -16,6 +16,5 @@ The minicomputer in the TI robot does not have a built in operating system or co
 To get started, you need to download and install some software on your computer. You can use either a Windows machine or a Linux machine. for the TI robot. You will need a Linux machine for the UR3eE
 
 Website for the TI robot : https://university.ti.com/en/faculty/ti-robotics-system-learning-kit/ti-robotics-system-learning-kit/curriculum-design-launch
-<!--
 
 We will use Github for most of the work on the robot arm (the Universal Robotics UR3). Thus, the frist step in working on the UR3 is to join Github.
